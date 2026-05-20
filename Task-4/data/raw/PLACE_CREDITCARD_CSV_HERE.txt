@@ -1,0 +1,4 @@
+Put the Kaggle file here and name it:
+creditcard.csv
+
+The pipeline will use this file automatically.

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/*.joblib
+reports/*.csv
+reports/*.json
+reports/*.png
+.ipynb_checkpoints/

@@ -1,0 +1,24 @@
+{
+  "model_name": "balanced_random_forest",
+  "threshold": 0.895,
+  "cv_summary": {
+    "logreg_rus": {
+      "roc_auc": 0.9805140264020041,
+      "avg_precision": 0.730485494759014,
+      "f1": 0.12313510422932199,
+      "recall": 0.9214833759590793,
+      "precision": 0.0660235420716416,
+      "std_avg_precision": 0.055727094265311555,
+      "std_roc_auc": 0.010661327738056513
+    },
+    "balanced_random_forest": {
+      "roc_auc": 0.978394518370193,
+      "avg_precision": 0.7645487013022084,
+      "f1": 0.11745416254865866,
+      "recall": 0.9098039215686274,
+      "precision": 0.06281490878814933,
+      "std_avg_precision": 0.044953336025915315,
+      "std_roc_auc": 0.01067411150699747
+    }
+  }
+}
