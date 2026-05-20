@@ -1,0 +1,4 @@
+Text1,Text2,Cosine Similarity,Fuzzy Score,Prediction
+Artificial intelligence is transforming technology.,Artificial intelligence is changing modern technology.,0.34,82.4742268041237,Plagiarized
+Machine learning is a subset of artificial intelligence.,Deep learning belongs to artificial intelligence.,0.29,80.43478260869566,Plagiarized
+Python is widely used for data science.,Python is popular in data analytics.,0.15,53.333333333333336,Not Plagiarized
