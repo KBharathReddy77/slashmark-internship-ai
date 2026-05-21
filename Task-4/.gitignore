@@ -5,4 +5,5 @@ reports/*.csv
 reports/*.json
 reports/*.png
 .ipynb_checkpoints/
-Task-4/data/raw/creditcard.csv
+Task-4/data/raw/*.csv
+
