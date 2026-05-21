@@ -6,5 +6,7 @@ reports/*.json
 reports/*.png
 .ipynb_checkpoints/
 Task-4/data/raw/*.csv
+Task-4/.gitignore
+data/demo/*.csv
 
 
